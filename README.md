@@ -3,9 +3,9 @@
 **This project demonstrates the implementation of JWT-based authentication and authorization in a Spring Boot application. It covers secure user login, role-based access control, and API security using Spring Security and JWT (JSON Web Token).**
 
 ## Technology Stack:
-**Spring Boot** :`3.4.2`
+**Spring Boot(Latest)** :`3.4.2`
 
-**Spring Security** :`6.4.2`
+**Spring Security(Latest)** :`6.4.2`
 
 **JWT (JSON Web Token) for authentication**
 
