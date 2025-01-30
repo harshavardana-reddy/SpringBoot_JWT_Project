@@ -4,14 +4,22 @@
 
 ## Technology Stack:
 **Spring Boot** :`3.4.2`
+
 **Spring Security** :`6.4.2`
+
 **JWT (JSON Web Token) for authentication**
+
 **Spring Data JPA for database interactions**
+
 **MySQL as the database (configurable)**
+
 **Maven for dependency management**
 
 ## Features:
 **JWT-based Authentication**
+
 **Role-Based Authorization**
+
 **Secure API Endpoints**
+
 **Token Expiration and Refreshing Mechanism**
